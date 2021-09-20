@@ -62,7 +62,6 @@ const App = () => {
               Made by
               <a className={classes.link} href="https://www.linkedin.com/in/takudzwa-pamhirwa-3152a71b5/"> Takudzwa Pamhirwa</a>
             </Typography>
-            <img className={classes.image} src={logo} height="50px" alt=" logo" />
           </div>
         ) : null}
       </div>
